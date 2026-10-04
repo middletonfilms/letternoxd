@@ -41,7 +41,7 @@ PERMISSIONS
 • "Read and change your data on letterboxd.com" — needed to add the buttons, badges and filters to Letterboxd pages, and to update your Not Interested list and watchlist when you click. The extension runs on no other website.
 
 SUPPORT
-Found a bug or have an idea? Open an issue at [GITHUB URL]/issues.
+Found a bug or have an idea? Open an issue at https://github.com/middletonfilms/letternoxd/issues.
 
 Letternoxd is free, open source and unofficial. It is not affiliated with or endorsed by Letterboxd.
 
@@ -109,7 +109,7 @@ What it handles, for the record (all stays between the user's browser and their 
 
 ## Privacy Policy
 
-**Privacy Policy URL:** [GITHUB URL]/blob/main/PRIVACY.md — **TO DO**: confirm it loads once the repo is public.
+**Privacy Policy URL:** https://github.com/middletonfilms/letternoxd/blob/main/PRIVACY.md
 
 ## Distribution
 
@@ -120,8 +120,8 @@ What it handles, for the record (all stays between the user's browser and their 
 
 **Publisher Name**: **TO DO** (your name, or "Letternoxd")
 **Contact Email**: **TO DO** — shown publicly and must be monitored; Google sends policy notices here.
-**Support URL**: [GITHUB URL]/issues
-**Homepage URL**: [GITHUB URL]
+**Support URL**: https://github.com/middletonfilms/letternoxd/issues
+**Homepage URL**: https://github.com/middletonfilms/letternoxd
 
 ## Version History
 

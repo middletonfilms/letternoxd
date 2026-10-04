@@ -32,6 +32,6 @@ If what the extension does with data ever changes, this page will be updated bef
 
 ## Contact
 
-Questions about privacy: open an issue on the project's GitHub page, or email [CONTACT EMAIL].
+Questions about privacy: open an issue at https://github.com/middletonfilms/letternoxd/issues.
 
 Letternoxd is an unofficial, fan-made extension and is not affiliated with or endorsed by Letterboxd.
