@@ -199,7 +199,8 @@
   left: 0;
   width: 100%;
   aspect-ratio: 2 / 3;
-  border-radius: 4px;
+  /* exactly Letterboxd's own poster corners */
+  border-radius: clamp(2px, 2.66667%, 8px) / clamp(2px, 1.77778%, 8px);
   pointer-events: none;
   transition: opacity 0.15s ease;
 }
