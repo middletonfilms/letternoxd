@@ -63,7 +63,7 @@ English
 | Screenshot 2 | 1280×800 | ⬜ Recommended | store-assets/screenshot-2.png |
 | Screenshot 3 | 1280×800 | ⬜ Recommended | store-assets/screenshot-3.png |
 | Small Promo Tile | 440×280 | ✅ Ready | store-assets/promo-small-440x280.png |
-| Marquee Promo Tile | 1400×560 | ⬜ Optional | |
+| Marquee Promo Tile | 1400×560 | ✅ Ready | store-assets/promo-marquee-1400x560.png |
 
 ### Screenshot Notes
 1. A film grid in Fade mode: a few faded posters with the white ⃠, plus seen / loved / watchlist badges.
