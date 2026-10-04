@@ -119,7 +119,7 @@ What it handles, for the record (all stays between the user's browser and their 
 ## Developer Info
 
 **Publisher Name**: **TO DO** (your name, or "Letternoxd")
-**Contact Email**: **TO DO** — shown publicly and must be monitored; Google sends policy notices here.
+**Contact Email**: if.iferror@gmail.com (shown publicly; Google sends review and policy notices here)
 **Support URL**: https://github.com/middletonfilms/letternoxd/issues
 **Homepage URL**: https://github.com/middletonfilms/letternoxd
 
