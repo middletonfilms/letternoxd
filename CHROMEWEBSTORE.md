@@ -59,7 +59,7 @@ English
 | Asset | Dimensions | Status | Filename |
 |-------|-----------|--------|----------|
 | Store Icon | 128×128 PNG | ✅ Ready | icons/icon128.png |
-| Screenshot 1 | 1280×800 | ⬜ **TO DO** | store-assets/screenshot-1.png |
+| Screenshot 1 | 1280×800 | ✅ Ready | store-assets/screenshot-1.png |
 | Screenshot 2 | 1280×800 | ⬜ Recommended | store-assets/screenshot-2.png |
 | Screenshot 3 | 1280×800 | ⬜ Recommended | store-assets/screenshot-3.png |
 | Small Promo Tile | 440×280 | ✅ Ready | store-assets/promo-small-440x280.png |
